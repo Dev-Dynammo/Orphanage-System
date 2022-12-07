@@ -1,0 +1,18 @@
+.text-white{
+    color: white;
+    font-weight:bold;
+    font-size: 33px;
+}
+.text-black{
+    /* color: rgb(80, 80, 195); */
+    color: black;
+    font-weight:bold;
+    font-size: 33px;
+}
+.roundkar{
+    border-radius: 75px;
+}
+.ourmoral{
+    text-align: center;
+    font-style: italic;
+}
